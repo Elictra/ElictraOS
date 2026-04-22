@@ -22,3 +22,5 @@ A: I dont quite remember everything I did because I made the OS back in 2025 and
 Q: Are you running out of questions for the Q & A?
 
 A: Yes.
+
+DOWNLOAD LINK: https://drive.google.com/file/d/1m3ollSG6oEVYWpQRhGG5kmAi1RyfErrj/view?usp=drive_link
