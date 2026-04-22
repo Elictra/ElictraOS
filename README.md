@@ -11,7 +11,7 @@ A: ElictraOS runs the same enviroment Linux Mint does, which is Cinnamon.
 
 Q: How do i get ElictraOS?
 
-A: (placeholder text for the link to the guide.)
+A: Go check out Guide.md in the repo.
 
 
 Q: What did you change?
